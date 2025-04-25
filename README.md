@@ -1,1 +1,1 @@
-# Sample-Captcha-page
+This is a simple Sample CAPTCHA Page built using basic HTML, CSS, and JavaScript. The project demonstrates how a basic CAPTCHA system can be implemented on a webpage to prevent automated submissions. It's designed for beginners to understand the core logic behind CAPTCHA generation and validation without relying on external libraries or backend integration. Feel free to explore, modify, and build upon it for learning or lightweight use cases.
